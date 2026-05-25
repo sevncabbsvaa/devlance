@@ -2,3 +2,8 @@ export {default as StarIcon} from "./StarIcon";
 export {default as ArrowIcon} from "./ArrowIcon";
 export {default as HeadIcon} from "./HeadIcon";
 export {default as LightningIcon} from "./LightningIcon";
+export {default as GithubIcon} from "./GithubIcon";
+export {default as GoogleIcon} from "./GoogleIcon";
+export {default as FullnameIcon} from "./FullnameIcon";
+export {default as EmailIcon} from "./EmailIcon";
+export {default as PasswordIcon} from "./PasswordIcon";
